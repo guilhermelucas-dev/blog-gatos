@@ -1,12 +1,12 @@
 
-# cat blog
+# Cat blog
 
 Rocketseat course stage3 challenge
 
 Create a static cat blog using the knowledge acquired in classes about grids and animations.
 
 
-## technologies
+## Technologies
 - HTML
 - CSS
 
